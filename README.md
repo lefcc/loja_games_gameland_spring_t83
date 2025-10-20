@@ -10,12 +10,12 @@
 
 <div align="center">
 <img src="https://img.shields.io/github/languages/top/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
-<img src="https://img-shields.io/github/repo-size/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
-<img src="https://img-shields.io/github/languages/count/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
-<img src="https://img-shields.io/github/last-commit/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
-<img src="https://img-shields.io/github/issues/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
-<img src="https://img-shields.io/github/issues-pr/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
-<img src="https://img-shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
+<img src="https://img.shields.io/github/repo-size/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
+<img src="https://img.shields.io/github/languages/count/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
+<img src="https://img.shields.io/github/issues/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
+<img src="https://img.shields.io/github/issues-pr/lefcc/loja_games_gameland_spring_t83?style=flat-square" />
+<img src="https://img.shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
  
 </div>
  
